@@ -1,0 +1,30 @@
+ 	/*h2*/
+
+ 	/* body>h2{
+    		color: red;
+	} */
+
+	/*#secundario article:last-child h2{
+    		color: red;
+	}*/
+
+
+	/* #principal : first-child {
+		color: red;
+	} */
+
+	/* #principal h2{
+    		color: red;
+	} */
+	/* .Articulo{
+    		color: red;
+	} */
+
+	/* .Articulo h2{
+    		color: red;
+	} */
+
+    	/* #secundario p{
+    		color: red;
+	} */
+
