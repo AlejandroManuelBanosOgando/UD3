@@ -1,0 +1,13 @@
+body > a:link{
+    color: #CC0000;
+    
+}
+
+a:hover{
+    background-color: #CC0000;
+    color: #FFF;
+}
+
+body > a:visited{
+    color: #CCC;
+}
